@@ -396,7 +396,7 @@ These questions work against the included sample documents:
 
 Built as part of the Endee AI/ML project submission.
 
-**Repository:** https://github.com/YOUR_USERNAME/legal-rag-endee  
-**Endee Fork:** https://github.com/YOUR_USERNAME/endee  
+**Repository:** https://github.com/Digambar1234/legal-rag-endee  
+**Endee Fork:** https://github.com/Digambar1234/endee  
 
-> ⭐ Don't forget to star [endee-io/endee](https://github.com/endee-io/endee)!
+>  [endee-io/endee](https://github.com/endee-io/endee)!
