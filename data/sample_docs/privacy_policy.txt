@@ -1,0 +1,158 @@
+PRIVACY POLICY
+
+Effective Date: January 1, 2025
+Last Updated: February 15, 2025
+
+Company: HealthTrack Digital Pvt. Ltd.
+CIN: U85100MH2020PTC338192
+Registered Address: 7th Floor, Infinity Tower, Bandra Kurla Complex, Mumbai, Maharashtra 400051
+Contact: privacy@healthtrack.in
+
+INTRODUCTION
+
+HealthTrack Digital Pvt. Ltd. ("HealthTrack", "we", "us", or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy describes how we collect, use, disclose, and safeguard information when you use our mobile application and web platform ("Service").
+
+Please read this Privacy Policy carefully. By using our Service, you agree to the collection and use of information in accordance with this Policy.
+
+SECTION 1 – INFORMATION WE COLLECT
+
+1.1 Personal Information
+We may collect the following types of personal information when you register and use our Service:
+- Full name, date of birth, and gender
+- Email address and mobile phone number
+- Home address and location data
+- Government-issued identification (for prescription-related features)
+- Health records, medical history, and treatment information
+- Insurance information and policy numbers
+
+1.2 Health Data
+Given the nature of our Service, we collect sensitive health-related information including:
+- Symptoms and medical conditions
+- Medications and dosage information
+- Lab test results and diagnostic reports
+- Vital signs data from connected devices
+- Mental health records and therapy notes (where applicable)
+
+1.3 Device and Usage Data
+We automatically collect certain information when you access our Service:
+- IP address and device identifiers
+- Browser type and operating system
+- Pages viewed and features used
+- Time and duration of your sessions
+- Crash reports and error logs
+
+1.4 Payment Information
+For premium features, we collect:
+- Credit/debit card details (processed and stored by our PCI-DSS compliant payment partner)
+- UPI ID or net banking details
+- Billing address
+
+SECTION 2 – HOW WE USE YOUR INFORMATION
+
+2.1 Primary Purposes
+We use the information collected to:
+(a) Provide, operate, and improve our Service;
+(b) Process health consultations and connect you with healthcare providers;
+(c) Send appointment reminders and medication alerts;
+(d) Generate personal health insights and recommendations;
+(e) Process payments and maintain billing records;
+(f) Respond to your enquiries and provide customer support.
+
+2.2 Secondary Purposes (with your explicit consent)
+(a) Conduct anonymized research to improve healthcare outcomes;
+(b) Share de-identified data with research institutions;
+(c) Send promotional offers and health tips (opt-in basis);
+(d) Improve our AI diagnostic tools using anonymized data.
+
+2.3 Legal and Compliance Purposes
+(a) Comply with applicable Indian laws including the Digital Personal Data Protection Act, 2023 (DPDPA);
+(b) Respond to lawful requests from courts and government authorities;
+(c) Investigate and prevent fraud, unauthorized access, and illegal activities.
+
+SECTION 3 – SHARING YOUR INFORMATION
+
+3.1 Healthcare Providers. We share your health information with doctors, specialists, and pharmacies involved in your care with your explicit consent.
+
+3.2 Service Providers. We engage trusted third-party service providers who process data on our behalf (cloud hosting, payment processing, analytics) under strict confidentiality obligations.
+
+3.3 Business Transfers. In the event of a merger, acquisition, or sale of assets, your information may be transferred to the successor entity.
+
+3.4 Legal Requirements. We may disclose information when required by law, court order, or to protect the rights, property, or safety of HealthTrack, our users, or the public.
+
+3.5 We do NOT sell your personal data to third parties for advertising or marketing purposes.
+
+SECTION 4 – DATA RETENTION
+
+4.1 We retain personal data for as long as necessary to fulfill the purposes outlined in this Policy, and as required by applicable law.
+
+4.2 Health records are retained for a minimum of seven (7) years as required under the Clinical Establishments Act and applicable Indian medical regulations.
+
+4.3 Account data is deleted within ninety (90) days of account closure, except where retention is legally mandated.
+
+SECTION 5 – DATA SECURITY
+
+5.1 We implement appropriate technical and organizational measures to protect your personal data including:
+- AES-256 encryption for data at rest
+- TLS 1.3 encryption for data in transit
+- Multi-factor authentication for all user accounts
+- Regular security audits and penetration testing
+- Role-based access controls for internal teams
+
+5.2 Despite our best efforts, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security.
+
+5.3 In the event of a personal data breach, we will notify you within 72 hours as required by the Digital Personal Data Protection Act, 2023.
+
+SECTION 6 – YOUR RIGHTS
+
+Under the Digital Personal Data Protection Act, 2023 (DPDPA) and applicable regulations, you have the right to:
+
+6.1 Access: Request a copy of the personal data we hold about you.
+6.2 Correction: Request correction of inaccurate or incomplete data.
+6.3 Erasure: Request deletion of your data, subject to legal retention requirements.
+6.4 Portability: Receive your data in a structured, machine-readable format.
+6.5 Grievance Redressal: Contact our Data Protection Officer for complaints.
+6.6 Withdraw Consent: Withdraw consent at any time without affecting prior processing.
+
+To exercise any of these rights, contact: privacy@healthtrack.in or call 1800-XXX-XXXX.
+
+SECTION 7 – CHILDREN'S PRIVACY
+
+7.1 Our Service is not directed to children under 18 years of age. We do not knowingly collect personal information from minors.
+
+7.2 If we discover we have collected data from a child under 18 without verified parental consent, we will delete that information immediately.
+
+SECTION 8 – COOKIES AND TRACKING
+
+8.1 We use cookies and similar tracking technologies to enhance your experience.
+
+8.2 Essential Cookies: Required for the Service to function. Cannot be disabled.
+
+8.3 Analytics Cookies: Help us understand how users interact with our Service. Can be disabled in cookie settings.
+
+8.4 Marketing Cookies: Used for personalised recommendations. Opt-in only.
+
+SECTION 9 – INTERNATIONAL DATA TRANSFERS
+
+9.1 Your personal data is primarily stored and processed in India. Where data is transferred outside India, we ensure appropriate safeguards are in place per DPDPA requirements.
+
+SECTION 10 – CHANGES TO THIS POLICY
+
+10.1 We reserve the right to update this Privacy Policy at any time. We will notify you of material changes by email or prominent notice in the application at least 15 days before they take effect.
+
+10.2 Your continued use of the Service after changes take effect constitutes acceptance of the updated Policy.
+
+SECTION 11 – CONTACT US
+
+Data Protection Officer:
+HealthTrack Digital Pvt. Ltd.
+7th Floor, Infinity Tower, Bandra Kurla Complex
+Mumbai, Maharashtra 400051
+Email: dpo@healthtrack.in
+Phone: +91-22-XXXX-XXXX
+
+Grievance Officer (as per IT Act, 2000):
+Name: Sanjay Verma
+Email: grievance@healthtrack.in
+Response Time: 30 days
+
+This Privacy Policy is governed by the laws of India.

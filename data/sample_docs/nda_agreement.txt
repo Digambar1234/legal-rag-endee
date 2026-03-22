@@ -1,0 +1,95 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of March 1, 2025, by and between:
+
+TechVentures Pvt. Ltd., a company incorporated under the laws of India, having its registered office at 101 Innovation Tower, Bangalore, Karnataka 560001 ("Disclosing Party"),
+
+AND
+
+DataSolutions Corp., a company incorporated under the laws of India, having its registered office at 45 Commerce Street, Mumbai, Maharashtra 400001 ("Receiving Party").
+
+RECITALS
+
+WHEREAS, the Disclosing Party possesses certain confidential and proprietary information relating to its business operations, technology, and intellectual property;
+
+WHEREAS, the Receiving Party desires to receive certain confidential information from the Disclosing Party for the purpose of evaluating a potential business partnership (the "Purpose");
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+ARTICLE 1 – DEFINITION OF CONFIDENTIAL INFORMATION
+
+1.1 For purposes of this Agreement, "Confidential Information" means any data or information that is proprietary to the Disclosing Party and not generally known to the public, whether in tangible or intangible form, whenever and however disclosed, including but not limited to:
+
+(a) any marketing strategies, plans, financial information, or projections, operations, sales estimates, business plans and performance results relating to the past, present or future business activities of the Disclosing Party;
+
+(b) plans for products or services, and customer or supplier lists;
+
+(c) any scientific or technical information, invention, design, process, procedure, formula, improvement, technology or method;
+
+(d) any concepts, reports, data, know-how, works-in-progress, designs, development tools, specifications, computer software, source code, object code, flow charts, databases, inventions, information and trade secrets;
+
+(e) any other information that should reasonably be recognized as confidential information of the Disclosing Party.
+
+1.2 Confidential Information does not include any information that:
+(a) is or becomes generally available to the public other than as a result of a disclosure by the Receiving Party;
+(b) was available to the Receiving Party on a non-confidential basis prior to its disclosure by the Disclosing Party;
+(c) becomes available to the Receiving Party on a non-confidential basis from a third party source;
+(d) is independently developed by the Receiving Party without reference to the Confidential Information.
+
+ARTICLE 2 – OBLIGATIONS OF RECEIVING PARTY
+
+2.1 The Receiving Party agrees to:
+(a) hold the Confidential Information in strict confidence and to take all reasonable precautions to protect such Confidential Information;
+(b) not to disclose any such Confidential Information or any information derived therefrom to any third party;
+(c) not to make any use whatsoever at any time of such Confidential Information except for the Purpose.
+
+2.2 The Receiving Party may disclose Confidential Information only to its employees, agents, consultants, and legal representatives who have a need to know such information for the Purpose, provided that such persons are bound by written confidentiality obligations no less protective than those set forth herein.
+
+2.3 The Receiving Party shall promptly notify the Disclosing Party upon discovery of any unauthorized use or disclosure of Confidential Information.
+
+ARTICLE 3 – TERM AND TERMINATION
+
+3.1 This Agreement shall commence on the date first written above and shall continue for a period of three (3) years, unless earlier terminated by either party upon thirty (30) days' prior written notice to the other party.
+
+3.2 The confidentiality obligations set forth in this Agreement shall survive termination of this Agreement for a period of five (5) years.
+
+3.3 Upon termination or at the Disclosing Party's request, the Receiving Party shall promptly return or destroy all Confidential Information and any copies thereof.
+
+ARTICLE 4 – INTELLECTUAL PROPERTY
+
+4.1 Nothing in this Agreement shall be construed as granting any rights, by license or otherwise, to the Receiving Party in or to any Confidential Information.
+
+4.2 All Confidential Information disclosed by the Disclosing Party shall remain the exclusive property of the Disclosing Party.
+
+4.3 Any improvements, modifications, or derivative works created by the Receiving Party using the Confidential Information shall be the exclusive property of the Disclosing Party.
+
+ARTICLE 5 – REMEDIES
+
+5.1 The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages would be inadequate.
+
+5.2 In the event of a breach or threatened breach, the Disclosing Party shall be entitled to seek injunctive relief and any other equitable remedies, in addition to all other remedies available at law or in equity.
+
+5.3 The prevailing party in any legal action arising from or relating to this Agreement shall be entitled to recover its reasonable attorneys' fees and costs.
+
+ARTICLE 6 – GENERAL PROVISIONS
+
+6.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of laws provisions.
+
+6.2 Jurisdiction. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of Bangalore, Karnataka, India.
+
+6.3 Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings and negotiations.
+
+6.4 Amendment. This Agreement may not be amended except by a written instrument signed by authorized representatives of both parties.
+
+6.5 Severability. If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+6.6 Waiver. The failure of either party to enforce any right or provision of this Agreement will not constitute a waiver of future enforcement of that right or provision.
+
+IN WITNESS WHEREOF, the parties have executed this Non-Disclosure Agreement as of the date first written above.
+
+TECHVENTURES PVT. LTD.                    DATASOLUTIONS CORP.
+
+By: _______________________               By: _______________________
+Name: Rajesh Sharma                        Name: Priya Mehta
+Title: Chief Executive Officer             Title: Chief Technology Officer
+Date: March 1, 2025                        Date: March 1, 2025

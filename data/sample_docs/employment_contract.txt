@@ -1,0 +1,113 @@
+EMPLOYMENT CONTRACT
+
+This Employment Contract ("Contract") is made and entered into on 15th February 2025, between:
+
+InnovateTech Solutions Pvt. Ltd., incorporated under the Companies Act 2013, with CIN U72900KA2018PTC107654, having its principal place of business at 500 Tech Park, Electronic City, Bengaluru, Karnataka 560100 ("Employer" or "Company"),
+
+AND
+
+Arjun Kapoor, son of Mr. Rakesh Kapoor, residing at 22 Green Avenue, Koramangala, Bengaluru, Karnataka 560034 ("Employee").
+
+PREAMBLE
+
+The Employer desires to employ the Employee on the terms and conditions set forth in this Contract, and the Employee desires to accept such employment.
+
+SECTION 1 – POSITION AND DUTIES
+
+1.1 Position. The Employer hereby employs the Employee as Senior Software Engineer – Machine Learning.
+
+1.2 Reporting. The Employee shall report directly to the Vice President of Engineering.
+
+1.3 Duties. The Employee shall:
+(a) Design and implement machine learning models and pipelines;
+(b) Collaborate with cross-functional teams including product, data, and DevOps;
+(c) Conduct code reviews and mentor junior engineers;
+(d) Contribute to technical architecture decisions;
+(e) Perform any other duties as reasonably assigned by the Employer.
+
+1.4 Full-Time Commitment. This is a full-time position. The Employee shall devote their entire professional time and efforts to the Company and shall not engage in any other employment or business activity without prior written consent of the Employer.
+
+SECTION 2 – COMMENCEMENT AND PROBATION
+
+2.1 Start Date. The Employee's employment shall commence on 1st March 2025.
+
+2.2 Probation Period. The Employee shall be on probation for a period of six (6) months from the Start Date. During the probation period, either party may terminate this Contract with seven (7) days' written notice.
+
+2.3 Confirmation. Upon successful completion of the probation period, the Employee shall be confirmed in their position, subject to satisfactory performance review.
+
+SECTION 3 – COMPENSATION AND BENEFITS
+
+3.1 Base Salary. The Employee shall be paid a gross annual salary of INR 28,00,000 (Indian Rupees Twenty-Eight Lakhs), paid on a monthly basis on or before the last working day of each month.
+
+3.2 Variable Pay. The Employee shall be eligible for an annual performance bonus of up to 20% of the base salary, subject to achievement of individual and company performance targets as defined annually.
+
+3.3 Stock Options. The Employee shall be granted 2,000 Employee Stock Options (ESOPs) under the Company's ESOP Plan 2022, vesting over a four-year period with a one-year cliff.
+
+3.4 Benefits.
+(a) Health Insurance: The Employee and their immediate family (spouse and up to 2 children) shall be covered under the Company's group health insurance policy with a sum insured of INR 5,00,000.
+(b) Provident Fund: Contribution as per the Employees' Provident Funds and Miscellaneous Provisions Act, 1952.
+(c) Gratuity: As per the Payment of Gratuity Act, 1972.
+(d) Leaves: 18 days of paid leave per year, 12 days of sick leave, and 10 days of public holidays as per the Company's leave policy.
+
+3.5 Salary Review. The Employee's salary shall be reviewed annually, typically in April of each year. Any revision shall be at the sole discretion of the Employer based on individual performance, market conditions, and Company performance.
+
+SECTION 4 – WORKING HOURS AND LOCATION
+
+4.1 Working Hours. Standard working hours are Monday through Friday, 9:30 AM to 6:30 PM IST, inclusive of a 30-minute lunch break. The Employee may be required to work beyond these hours to meet business needs without additional compensation.
+
+4.2 Work Location. The Employee's primary place of work shall be the Company's office at 500 Tech Park, Electronic City, Bengaluru. The Employee may be required to work from other locations or remotely as directed by the Employer.
+
+4.3 Remote Work. The Company offers a hybrid work model — the Employee is expected to be in office at least 3 days per week.
+
+SECTION 5 – TERMINATION
+
+5.1 Termination by Employer. After the probation period, the Employer may terminate this Contract:
+(a) For cause (including but not limited to gross misconduct, fraud, breach of contract, disclosure of confidential information), with immediate effect and without notice or compensation;
+(b) Without cause, by providing ninety (90) days' written notice or payment of equivalent salary in lieu of notice.
+
+5.2 Termination by Employee. The Employee may resign from their employment by providing ninety (90) days' written notice to the Employer. The Employer may, at its discretion, waive the notice period in whole or in part.
+
+5.3 Garden Leave. During any notice period, the Employer may place the Employee on garden leave, during which the Employee shall receive their full salary but shall not be required to attend work.
+
+5.4 Return of Property. Upon termination, the Employee shall immediately return all Company property including but not limited to laptops, access cards, documents, and any proprietary information.
+
+SECTION 6 – CONFIDENTIALITY AND NON-DISCLOSURE
+
+6.1 The Employee agrees to maintain strict confidentiality of all information relating to the Company's business, technology, clients, strategies, and finances during and after employment.
+
+6.2 This obligation of confidentiality shall survive termination of employment for a period of three (3) years.
+
+SECTION 7 – INTELLECTUAL PROPERTY
+
+7.1 Work Product. All inventions, improvements, discoveries, works of authorship, software, and any other intellectual property created by the Employee during the course of employment shall be the exclusive property of the Employer.
+
+7.2 Assignment. The Employee hereby assigns to the Employer all rights, title, and interest in any such intellectual property, and agrees to execute any documents necessary to perfect such assignment.
+
+SECTION 8 – NON-COMPETE AND NON-SOLICITATION
+
+8.1 Non-Compete. For a period of twelve (12) months following termination of employment, the Employee shall not, directly or indirectly, work for, own, operate, or be engaged with any direct competitor of the Company in India.
+
+8.2 Non-Solicitation of Employees. For a period of twenty-four (24) months following termination, the Employee shall not solicit, recruit, or hire any employee of the Company.
+
+8.3 Non-Solicitation of Clients. For a period of twelve (12) months following termination, the Employee shall not solicit or attempt to divert any customer or client of the Company with whom the Employee had material dealings during the last twelve months of employment.
+
+SECTION 9 – DISPUTE RESOLUTION
+
+9.1 The parties shall first attempt to resolve any dispute through good-faith negotiation.
+
+9.2 If unresolved, the dispute shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996, with a sole arbitrator appointed by mutual consent.
+
+9.3 The seat of arbitration shall be Bengaluru, Karnataka.
+
+SECTION 10 – GOVERNING LAW
+
+This Contract shall be governed by the laws of India and the parties submit to the exclusive jurisdiction of courts in Bengaluru, Karnataka.
+
+IN WITNESS WHEREOF, the parties have signed this Contract on the date first written above.
+
+For InnovateTech Solutions Pvt. Ltd.          Employee
+
+Signature: _______________________            Signature: _______________________
+Name: Meera Iyer                              Name: Arjun Kapoor
+Title: Head – Human Resources                 Date: 15th February 2025
+Date: 15th February 2025
